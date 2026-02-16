@@ -1,4 +1,4 @@
-# Aaron Pol Zara
+# Aaron Zara
 
 **Fractional CTO | Agentic Orchestration | Principal of godmode.ph**
 
