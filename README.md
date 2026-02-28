@@ -1,8 +1,8 @@
 # Aaron Zara
 
-**Agentic Orchestrator | Solo Builder | Fractional CTO | Principal of godmode.ph**
+**Founder of godmode.ph | Fractional CTO | Agentic Orchestrator **
 
-I build structured data systems and agentic infrastructure for companies that need engineering leadership without the full-time overhead. My work on [ren.ph](https://ren.ph) -- 33,504 verified data nodes across Philippine real estate -- is the proof of work: schema-driven architecture, automated verification pipelines, and answer engine optimization at scale. I care about systems that hold up under audit.
+I build structured data systems and agentic infrastructure for companies that need engineering leadership without the full-time overhead. My work on [ren.ph](https://ren.ph) -- 60,000+ verified data nodes across Philippine real estate -- is the proof of work: schema-driven architecture, automated verification pipelines, and answer engine optimization at scale. I care about systems that hold up under audit.
 
 ---
 
