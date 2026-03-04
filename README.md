@@ -2,7 +2,7 @@
 
 **Founder of godmode.ph | Fractional CTO | Agentic Orchestrator**
 
-I build structured data systems and agentic infrastructure for companies that need engineering leadership without the full-time overhead. My work on [ren.ph](https://ren.ph) -- 60,000+ verified data nodes across Philippine real estate -- is the proof of work: schema-driven architecture, automated verification pipelines, and answer engine optimization at scale. I care about systems that hold up under audit.
+I build structured data systems and agentic infrastructure for companies that need engineering leadership without the full-time overhead. My work on [ren.ph](https://ren.ph) - 60,000+ verified data nodes across Philippine real estate - is the proof of work: schema-driven architecture, automated verification pipelines, and answer engine optimization at scale. I care about systems that hold up under audit.
 
 ---
 
@@ -15,12 +15,17 @@ I build structured data systems and agentic infrastructure for companies that ne
 
 ## Live Systems
 
-- **[ren.ph](https://ren.ph)** -- Philippine real estate verification infrastructure. 33,504 data nodes. Broker profiles, property listings, structured schema.
-- **[godmode.ph](https://godmode.ph)** -- Fractional CTO practice. Service details, case studies, contact.
+- **[ren.ph](https://ren.ph)** - Philippine real estate verification infrastructure. 60,000+ data nodes. Broker profiles, property listings, structured schema.
+- **[godmode.ph](https://godmode.ph)** - Fractional CTO practice. Service details, case studies, contact.
+
+## MCP Servers
+
+- **[psgc-mcp](https://github.com/GodModeArch/psgc-mcp)** - Read-only MCP server for Philippine Standard Geographic Code (PSGC) data. Cloudflare Workers + KV. Gives AI agents clean, structured access to every province, city, municipality, and barangay in the Philippines.
+- **[lts-mcp](https://github.com/GodModeArch/lts-mcp)** - Read-only MCP server for DHSUD License to Sell verification data. Lets AI agents verify real estate developer compliance without manual lookup.
 
 ## Technical Audit Trail
 
-- **[ren-ph-changelog](https://github.com/GodModeArch/ren-ph-changelog)** -- Public build log for ren.ph. Architecture decisions, data pipeline changes, schema evolution.
+- **[ren-ph-changelog](https://github.com/GodModeArch/ren-ph-changelog)** - Public build log for ren.ph. Architecture decisions, data pipeline changes, schema evolution.
 
 ## Contact
 
