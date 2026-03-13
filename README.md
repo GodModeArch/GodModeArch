@@ -8,20 +8,20 @@ I build structured data infrastructure for Philippine AI systems. One person. No
 
 ## Live Systems
 
-- **[REN.PH](https://ren.ph)** — 60,000+ verified Philippine real estate data nodes. Broker profiles, LTS verification, zonal value coverage across every barangay.
-- **[realestateseo.ph](https://realestateseo.ph)** — ranked above Google's own AI Overview on "real estate seo philippines" 73 days after domain registration.
-- **[godmode.ph](https://godmode.ph)** — Fractional CTO practice. Whitepapers, case studies, contact.
+- **[REN.PH](https://ren.ph)** - 60,000+ verified Philippine real estate data nodes. Broker profiles, LTS verification, zonal value coverage across every barangay.
+- **[realestateseo.ph](https://realestateseo.ph)** - ranked above Google's own AI Overview on "real estate seo philippines", ranked #1 on "real estate seo" 73 days after domain registration.
+- **[godmode.ph](https://godmode.ph)** - Fractional CTO practice. Whitepapers, case studies, contact.
 
 ---
 
 ## MCP Servers (GodModeArch)
 
-Public, free, read-only. All data sourced from official Philippine government agencies.
+Public, free, read-only. All data sourced from official Philippine Government Agencies.
 
-- **[psgc-mcp](https://github.com/GodModeArch/psgc-mcp)** — Philippine Standard Geographic Code. 42,000+ entities from barangay to region, with 2024 census population. Cloudflare Workers + KV.
-- **[lts-mcp](https://github.com/GodModeArch/lts-mcp)** — DHSUD License to Sell verification for Philippine real estate projects.
-- **[ph-financial-mcp](https://github.com/GodModeArch/ph-financial-mcp)** — PH Financial Access MCP. 587 BSP-supervised institutions, 37,834 geocoded branch locations, financial inclusion analytics. Find unbanked municipalities. Map institution footprints. Compare coverage across provinces.
-- **[ph-holidays-mcp](https://github.com/GodModeArch/ph-holidays-mcp)** — Philippine national holidays sourced from official presidential proclamations. Regular, special non-working, special working, and Islamic holidays. Long weekend detection included.
+- **[psgc-mcp](https://github.com/GodModeArch/psgc-mcp)** - Philippine Standard Geographic Code. 42,000+ entities from barangay to region, with 2024 census population. Cloudflare Workers + KV.
+- **[lts-mcp](https://github.com/GodModeArch/lts-mcp)** - DHSUD License to Sell verification for Philippine real estate projects.
+- **[ph-financial-mcp](https://github.com/GodModeArch/ph-financial-mcp)** - PH Financial Access MCP. 587 BSP-supervised institutions, 37,834 geocoded branch locations, financial inclusion analytics. Find unbanked municipalities. Map institution footprints. Compare coverage across provinces.
+- **[ph-holidays-mcp](https://github.com/GodModeArch/ph-holidays-mcp)** - Philippine national holidays sourced from official presidential proclamations. Regular, special non-working, special working, and Islamic holidays. Long weekend detection included.
 
 ---
 
