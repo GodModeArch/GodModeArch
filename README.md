@@ -20,7 +20,7 @@ Public, free, read-only. All data sourced from official Philippine Government Ag
 
 - **[psgc-mcp](https://github.com/GodModeArch/psgc-mcp)** - Philippine Standard Geographic Code. 42,000+ entities from barangay to region, with 2024 census population. Cloudflare Workers + KV.
 - **[lts-mcp](https://github.com/GodModeArch/lts-mcp)** - DHSUD License to Sell verification for Philippine real estate projects.
-- **[ph-financial-mcp](https://github.com/GodModeArch/ph-financial-mcp)** - PH Financial Access MCP. 587 BSP-supervised institutions, 37,834 geocoded branch locations, financial inclusion analytics. Find unbanked municipalities. Map institution footprints. Compare coverage across provinces.
+- **[ph-financial-access-mcp](https://github.com/GodModeArch/ph-financial-access-mcp)** - PH Financial Access MCP that provides Philippine financial access data to LLMs. 587 BSP-supervised institutions, 37,834 financial access points (bank offices, ATMs, NSSLAs), and coverage analytics with PSGC and 2024 Census population data. Built on Cloudflare Workers with static JSON data.
 - **[ph-holidays-mcp](https://github.com/GodModeArch/ph-holidays-mcp)** - Philippine national holidays sourced from official presidential proclamations. Regular, special non-working, special working, and Islamic holidays. Long weekend detection included.
 
 ---
